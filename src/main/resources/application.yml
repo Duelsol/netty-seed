@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: netty-seed
+  output:
+    ansi:
+      enabled: always
+
+client:
+  ip: 127.0.0.1
+  port: 8686
+  clientId: netty
+  heartbeatInterval: 20
